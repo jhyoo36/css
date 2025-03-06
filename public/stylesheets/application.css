@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(38, 30, 40, 0.869);
+
+}
+p {
+  color: white;
+  font-size: 30px
+}
+h1 {
+  color: white;
+  font-size: 50px
+}
+a {
+  color: skyblue
+}
+
+.smaller {
+  font-size: 15px
+}
